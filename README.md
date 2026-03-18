@@ -40,6 +40,7 @@ This project implements a **state-of-the-art Anomaly Detection model** designed 
 
 
 
+## 🔍 Fraud Radar Visualization
 The following visualization demonstrates the model's ability to isolate fraudulent transactions (in **Crimson**) from normal banking behavior (in **Grey**).
 ## 🔍 Fraud Radar Visualization
  
