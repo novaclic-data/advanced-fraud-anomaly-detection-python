@@ -23,13 +23,16 @@
 
 
 
+
 This project implements a **state-of-the-art Anomaly Detection model** designed to identify fraudulent banking transactions without prior labeling. Using **Isolation Forest**, the system successfully isolates outliers in high-dimensional transaction data.
+
 
 
 
 ## 📊 Key Results: 100% Recall
 * **Unsupervised Accuracy**: The model identified **100% of anomalous transactions** based purely on behavioral deviations (Amount vs. Frequency).
 * **Zero-Day Protection**: Capable of detecting new, unseen fraud patterns that traditional rule-based systems would miss.
+
 
   
 
@@ -42,7 +45,7 @@ This project implements a **state-of-the-art Anomaly Detection model** designed 
 
 ## 🔍 Fraud Radar Visualization
 The following visualization demonstrates the model's ability to isolate fraudulent transactions (in **Crimson**) from normal banking behavior (in **Grey**).
-## 🔍 Fraud Radar Visualization
+
  
 <div align="center">
   <img src="advanced_fraud_radar.png" width="85%" alt="Advanced Fraud Radar Visualization">
