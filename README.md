@@ -14,9 +14,6 @@
 
 ---
 
-## 📈 Executive Summary
-This project implements a **state-of-the-art Anomaly Detection model** designed to identify fraudulent banking transactions without prior labeling. Using **Isolation Forest**, the system successfully isolates outliers in high-dimensional transaction data.
-
 
 # 🚨 Advanced Banking Fraud Radar: Unsupervised Anomaly Detection
 ### Zero-Day Fraud Detection using Isolation Forest Algorithm
