@@ -14,9 +14,16 @@
 
 ---
 
+## 🔍 Fraud Radar Visualization
+ 
+<div align="center">
+  <img src="advanced_fraud_radar.png" width="85%" alt="Advanced Fraud Radar Visualization">
+</div>
 
-# 🚨 Advanced Banking Fraud Radar: Unsupervised Anomaly Detection
-### Zero-Day Fraud Detection using Isolation Forest Algorithm
+> **Technical Note:** This **100% Recall** was achieved in a controlled environment where anomalies are statistically distinct from normal transactions. In real-world banking production, this model serves as a robust **outlier detector** to be combined with supervised learning for 360-degree security.
+
+
+
 
 This project implements a **state-of-the-art Anomaly Detection model** designed to identify fraudulent banking transactions without prior labeling. Using **Isolation Forest**, the system successfully isolates outliers in high-dimensional transaction data.
 
@@ -29,9 +36,16 @@ This project implements a **state-of-the-art Anomaly Detection model** designed 
 * **Operational Efficiency**: Reduces the need for manual labeling by automating anomaly discovery.
 * **94% Recall Baseline exceeded**: This unsupervised approach complements supervised models for 360-degree security.
 
+## 🔍 Fraud Radar Visualization
+ 
+<div align="center">
+  <img src="advanced_fraud_radar.png" width="85%" alt="Advanced Fraud Radar Visualization">
+</div>
+
+  The following visualization demonstrates the model's ability to isolate fraudulent transactions (in **Crimson**) from normal banking behavior (in **Grey**).
+
 ## 🛠️ Tech Stack
 * **Python** (Scikit-Learn, NumPy, Pandas)
 * **Algorithm**: Isolation Forest (Outlier Detection)
 * **Visualization**: Matplotlib & Seaborn (Fraud Radar Mapping)
 
-> **Technical Note:** This **100% Recall** was achieved in a controlled environment where anomalies are statistically distinct from normal transactions. In real-world banking production, this model serves as a robust **outlier detector** to be combined with supervised learning for 360-degree security.
