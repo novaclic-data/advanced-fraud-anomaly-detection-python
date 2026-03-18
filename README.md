@@ -14,11 +14,9 @@
 
 ---
 
-## 🔍 Fraud Radar Visualization
- 
-<div align="center">
-  <img src="advanced_fraud_radar.png" width="85%" alt="Advanced Fraud Radar Visualization">
-</div>
+### 📋 Project Assets
+* 📊 **Fraud Radar:** [Visual Analysis of Outlier Isolation](advanced_fraud_radar.png)
+* 🐍 **Source Code:** [Advanced Anomaly Detection Logic](advanced_fraud_anomaly_detection.py
 
 > **Technical Note:** This **100% Recall** was achieved in a controlled environment where anomalies are statistically distinct from normal transactions. In real-world banking production, this model serves as a robust **outlier detector** to be combined with supervised learning for 360-degree security.
 
@@ -36,13 +34,15 @@ This project implements a **state-of-the-art Anomaly Detection model** designed 
 * **Operational Efficiency**: Reduces the need for manual labeling by automating anomaly discovery.
 * **94% Recall Baseline exceeded**: This unsupervised approach complements supervised models for 360-degree security.
 
+
+The following visualization demonstrates the model's ability to isolate fraudulent transactions (in **Crimson**) from normal banking behavior (in **Grey**).
 ## 🔍 Fraud Radar Visualization
  
 <div align="center">
   <img src="advanced_fraud_radar.png" width="85%" alt="Advanced Fraud Radar Visualization">
 </div>
 
-  The following visualization demonstrates the model's ability to isolate fraudulent transactions (in **Crimson**) from normal banking behavior (in **Grey**).
+  
 
 ## 🛠️ Tech Stack
 * **Python** (Scikit-Learn, NumPy, Pandas)
