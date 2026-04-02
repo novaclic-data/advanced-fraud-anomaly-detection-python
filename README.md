@@ -14,10 +14,6 @@
 
 ---
 
-### 📋 Project Assets
-* 📊 **Fraud Radar:** [Visual Analysis of Outlier Isolation](advanced_fraud_radar.png)
-* ![Anomaly Detection Radar](Strategic_Risk_Intelligence_Report_Novaclic_Data.png)
-
 
 
 
