@@ -49,6 +49,30 @@ The following visualization demonstrates the model's ability to isolate fraudule
  
 <div align="center">
   <img src="advanced_fraud_radar.png" width="85%" alt="Advanced Fraud Radar Visualization">
+  
+
+  # 🛡️ Financial Anomaly Radar: Unsupervised ML Approach
+**By NovaClic Data | MSc. AI & BI Strategic Specialist**
+
+### 🕵️ Business Overview
+This project addresses the challenge of identifying fraudulent transactions in high-criticality financial environments. Utilizing the **Isolation Forest** algorithm, the system detects statistical deviations (anomalies) that traditional rule-based systems often overlook.
+
+### 📊 Executive Strategic Dashboard
+![Anomaly Detection Radar](Strategic_Risk_Intelligence_Report_Novaclic_Data)
+
+*   **KPI Central:** 92.5% Detection Reliability.
+*   **Visual Strategy:** Time-based anomaly segmentation for executive decision-making.
+
+### 🛠️ Tech Stack & Architecture
+*   **Engine:** Python 3.x (Scikit-Learn, Pandas, NumPy).
+*   **Algorithm:** Isolation Forest (Anomaly Detection).
+*   **Framework:** Agile Project Management (**Scrum**).
+*   **Visualization:** Strategic BI Dashboard in **Power BI**.
+
+### 📈 Strategic Impact
+*   **Risk Hierarchy:** Automated threat classification by risk level (70-95+).
+*   **Forensic Analysis:** Real-time identification of critical fraud windows (e.g., 02:00 AM).
+*   **ROI focus:** Minimizing operational friction between raw data and executive response.
 </div>
 
   
