@@ -25,7 +25,7 @@ This project addresses the critical challenge of identifying fraudulent transact
 *This visualization is the direct output of the Isolation Forest engine, isolating critical outliers (Crimson) from normal transactional flow.*
 
 ### 📊 Strategic Executive Dashboard (Power BI)
-![Strategic_Risk_Intelligence_Report_Novaclic_Data](Strategic_Risk_Intelligence_Report_Novaclic_Data.png)
+
 *   **Central KPI:** 93% Detection Reliability.
 *   **Visual Strategy:** Time-based anomaly segmentation for executive decision-making.
 
