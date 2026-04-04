@@ -1,5 +1,5 @@
 <div align="center">
- <img width="100%" alt="NovaClic_Data_Official_Brand_Banner" src="https://github.com/user-attachments/assets/f8af940a-c689-427f-ad4c-17ca8780092a" />
+ <img width="1500" height="500" alt="NovaClic_Data_Official_Brand_Banner" src="https://github.com/user-attachments/assets/500d0bdd-c666-4609-9af3-7453d9360b27" />
 </div>
 
  # 🛡️ Financial Anomaly Radar: Unsupervised ML Approach
