@@ -1,7 +1,4 @@
-<div align="center">
-  <a href="https://github.com">
-    <img src="https://images.unsplash.com" width="93%" alt="Banking Fraud Detection Banner">
-  </a>
+<img src="AQUÍ_PEGA_EL_LINK_QUE_COPIASTE" width="100%" alt="Novaclic Data Strategic Banner">
 
  # 🛡️ Financial Anomaly Radar: Unsupervised ML Approach
 **By NovaClic Data | MSc. AI & BI Strategic Specialist**
