@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6cf4b070-6b9d-4f9b-af02-06b60719f154" width="75%" alt="Novaclic Data Strategic Banner">
+  <img src="https://github.com/user-attachments/assets/6cf4b070-6b9d-4f9b-af02-06b60719f154" width="468×60" alt="Novaclic Data Strategic Banner">
 </div>
 
  # 🛡️ Financial Anomaly Radar: Unsupervised ML Approach
