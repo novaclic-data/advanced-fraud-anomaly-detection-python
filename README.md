@@ -1,4 +1,6 @@
-<img src="AQUÍ_PEGA_EL_LINK_QUE_COPIASTE" width="100%" alt="Novaclic Data Strategic Banner">
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6cf4b070-6b9d-4f9b-af02-06b60719f154" width="100%" alt="Novaclic Data Strategic Banner">
+</div>
 
  # 🛡️ Financial Anomaly Radar: Unsupervised ML Approach
 **By NovaClic Data | MSc. AI & BI Strategic Specialist**
