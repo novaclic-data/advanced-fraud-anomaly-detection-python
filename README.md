@@ -32,7 +32,6 @@ This project addresses the critical challenge of identifying fraudulent transact
 *   **Central KPI:** 93% Detection Reliability.
 *   **Visual Strategy:** Time-based anomaly segmentation for executive decision-making.
 
-  
 
 ### 🛠️ Tech Stack & Architecture
 *   **Algorithm:** Isolation Forest (Unsupervised Outlier Detection).
