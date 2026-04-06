@@ -11,13 +11,17 @@
   [![LinkedIn Profile](https://img.shields.io)](https://www.linkedin.com)
 </div>
 
+
 ---
+
+
 
 
 
 
 ### 🕵️ Executive Summary
 This project addresses the critical challenge of identifying fraudulent transactions in high-stakes financial environments. Using the **Isolation Forest** algorithm, the system isolates statistical outliers (anomalies) that traditional rule-based systems often overlook.
+
 
 ### 🔍 Engine Anomaly Detection Radar (Python Analysis)
 ![Strategic Fraud Engine](advanced_fraud_radar.png)
@@ -28,11 +32,15 @@ This project addresses the critical challenge of identifying fraudulent transact
 *   **Central KPI:** 93% Detection Reliability.
 *   **Visual Strategy:** Time-based anomaly segmentation for executive decision-making.
 
+  
+
 ### 🛠️ Tech Stack & Architecture
 *   **Algorithm:** Isolation Forest (Unsupervised Outlier Detection).
 *   **Engine:** Python 3.x (Scikit-Learn, Pandas, NumPy).
 *   **Framework:** Agile Project Management (**Scrum**).
 *   **Visualization:** Power BI & Matplotlib/Seaborn.
+
+  
 
 ### 📈 Business & Strategic Impact
 *   **Risk Hierarchy:** Automated threat classification (70-95+) for prioritized response.
